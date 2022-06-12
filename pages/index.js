@@ -1,6 +1,6 @@
 import styled from "@emotion/styled";
 import Head from "next/head";
-import Page2 from "../src/components/commons/ActivityDetails/page2.container";
+import Page2 from "../src/components/commons/page2/page2.container";
 import Page3 from "../src/components/commons/Page3/page3.container";
 import Page4 from "../src/components/commons/Page4/Page4.container";
 import * as S from "./../src/components/units/mainpage/mainpage.styles";

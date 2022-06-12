@@ -40,7 +40,7 @@ export const IconImg = styled.img`
 `;
 
 export const Page = styled.div`
-  scroll-snap-align: start;
+  // scroll-snap-align: start;
   .Page1 {
     width: 100%;
     height: 100vh;

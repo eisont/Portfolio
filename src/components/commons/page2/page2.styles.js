@@ -4,7 +4,6 @@ export const Wrapper = styled.div`
   margin: 0 auto;
   padding: 20px;
   width: 80%;
-  height: 100vh;
   background: #fff;
   display: flex;
   justify-content: centecr;
@@ -48,6 +47,7 @@ export const Text = styled.div`
   }
 `;
 export const About = styled.div`
+  padding-left: 30px;
   display: flex;
   flex-direction: column;
   justify-content: start;
@@ -56,4 +56,9 @@ export const About = styled.div`
 export const Title2 = styled.div`
   font-size: 20px;
   font-weight: 900;
+`;
+export const ol = styled.ol``;
+export const li = styled.li`
+  font-size: 16px;
+  font-weight: 500;
 `;
